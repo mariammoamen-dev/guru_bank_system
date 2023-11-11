@@ -4,3 +4,4 @@
 ## Intergration Planning : https://docs.google.com/spreadsheets/d/1ULti8uv64DJ953c3K9C6j0vAyz7yE_LuRO65XdQz6Bs/edit?usp=sharing
 ## Test Cases CheckList Retesting : https://docs.google.com/spreadsheets/d/1Va3nRYRKEGLRhM9oLzN2-p1nmGsEJDX0N3H0xavcuoA/edit?usp=sharing
 
+# guru_bank_system : version 2.0
